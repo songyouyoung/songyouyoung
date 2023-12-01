@@ -56,3 +56,4 @@
 
 ## 💻 Git stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyouyoung&show_icons=true&theme=cobalt)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songyouyoung&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
