@@ -55,5 +55,5 @@
 </div>
 
 ## 💻 Git stats
-<img src="https://github-readme-stats.vercel.app/api?username=songyouyoung&theme=tokyonight&show_icons=true" width="40%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songyouyoung&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=songyouyoung&theme=tokyonight&show_icons=true" width = "40%"/> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songyouyoung&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" width = "40%"/>
