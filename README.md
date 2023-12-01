@@ -11,6 +11,11 @@
 
 ## ✒ 블로그
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songyy)](https://velog.io/@songyy)
+<br><br>
+<a href="https://www.notion.so/songyy">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" height = "130px"> 
+</a>
+
 
 ## 🔨 SKILL
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
