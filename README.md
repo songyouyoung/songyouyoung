@@ -12,7 +12,7 @@
 ## ✒ 블로그
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songyy)](https://velog.io/@songyy)
 <br><br>
-<a href="[https://www.notion.so/songyy](https://songyy.notion.site/537583e7b5b440d5853e1d71ac4995dc?pvs=4)">
+<a href="https://songyy.notion.site/537583e7b5b440d5853e1d71ac4995dc?pvs=4">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" height = "130px"> 
 </a>
 
